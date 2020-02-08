@@ -1,0 +1,6 @@
+E:\Softveri vezbanje\Seminarski rad vol 2 - Matija Radicevic\Domeni\bin\Debug\Domeni.dll
+E:\Softveri vezbanje\Seminarski rad vol 2 - Matija Radicevic\Domeni\bin\Debug\Domeni.pdb
+E:\Softveri vezbanje\Seminarski rad vol 2 - Matija Radicevic\Domeni\obj\Debug\Domeni.csprojAssemblyReference.cache
+E:\Softveri vezbanje\Seminarski rad vol 2 - Matija Radicevic\Domeni\obj\Debug\Domeni.csproj.CoreCompileInputs.cache
+E:\Softveri vezbanje\Seminarski rad vol 2 - Matija Radicevic\Domeni\obj\Debug\Domeni.dll
+E:\Softveri vezbanje\Seminarski rad vol 2 - Matija Radicevic\Domeni\obj\Debug\Domeni.pdb
